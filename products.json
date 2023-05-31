@@ -1,0 +1,27 @@
+[
+    {
+      "name": "air jordan",
+      "image": "img/black-transparent.png",
+      "stock": 10
+    },
+    {
+      "name": "air jordan",
+      "image": "img/blue-transparent.png",
+      "stock": 10
+    },
+    {
+      "name": "air jordan",
+      "image": "img/pink-transparent.png",
+      "stock": 10
+    },
+    {
+      "name": "air jordan",
+      "image": "img/white-transparent.png",
+      "stock": 10
+    },
+    {
+      "name": "air jordan",
+      "image": "img/yellow-transparent.png",
+      "stock": 10
+    }
+]
